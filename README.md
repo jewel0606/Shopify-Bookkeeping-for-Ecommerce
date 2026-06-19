@@ -3,11 +3,17 @@
 Managed end-to-end bookkeeping for Shopify-based e-commerce businesses. Ensured accurate sales recording, fee tracking, and reconciliation with payment gateways.
 
 Recorded daily Shopify sales and payouts
+
 Reconciled Shopify with bank & payment processors
+
 Tracked refunds, discounts, and chargebacks
+
 Managed COGS and inventory entries
+
 Integrated Shopify with QuickBooks/Xero using A2X/Synder
+
 Prepared monthly financial reports
+
 
 <img width="1600" height="771" alt="image" src="https://github.com/user-attachments/assets/a043f33c-bcf1-44c3-891b-506a0eec5774" />
 
